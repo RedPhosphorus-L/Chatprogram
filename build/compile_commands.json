@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatserver.cpp.o -c /home/rk3588/chat_project/src/server/chatserver.cpp",
+  "file": "/home/rk3588/chat_project/src/server/chatserver.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/chatservice.cpp.o -c /home/rk3588/chat_project/src/server/chatservice.cpp",
+  "file": "/home/rk3588/chat_project/src/server/chatservice.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/main.cpp.o -c /home/rk3588/chat_project/src/server/main.cpp",
+  "file": "/home/rk3588/chat_project/src/server/main.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/db/db.cpp.o -c /home/rk3588/chat_project/src/server/db/db.cpp",
+  "file": "/home/rk3588/chat_project/src/server/db/db.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/friendmodel.cpp.o -c /home/rk3588/chat_project/src/server/model/friendmodel.cpp",
+  "file": "/home/rk3588/chat_project/src/server/model/friendmodel.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/groupmodel.cpp.o -c /home/rk3588/chat_project/src/server/model/groupmodel.cpp",
+  "file": "/home/rk3588/chat_project/src/server/model/groupmodel.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/offiinemessagemodel.cpp.o -c /home/rk3588/chat_project/src/server/model/offiinemessagemodel.cpp",
+  "file": "/home/rk3588/chat_project/src/server/model/offiinemessagemodel.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/model/usermodel.cpp.o -c /home/rk3588/chat_project/src/server/model/usermodel.cpp",
+  "file": "/home/rk3588/chat_project/src/server/model/usermodel.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/server",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatServer.dir/redis/redis.cpp.o -c /home/rk3588/chat_project/src/server/redis/redis.cpp",
+  "file": "/home/rk3588/chat_project/src/server/redis/redis.cpp"
+},
+{
+  "directory": "/home/rk3588/chat_project/build/src/client",
+  "command": "/usr/bin/g++   -I/home/rk3588/chat_project/include -I/home/rk3588/chat_project/include/server -I/home/rk3588/chat_project/include/server/model -I/home/rk3588/chat_project/include/server/db -I/home/rk3588/chat_project/include/server/redis -I/home/rk3588/chat_project/thirdparty  -g -g   -o CMakeFiles/ChatClient.dir/main.cpp.o -c /home/rk3588/chat_project/src/client/main.cpp",
+  "file": "/home/rk3588/chat_project/src/client/main.cpp"
+}
+]

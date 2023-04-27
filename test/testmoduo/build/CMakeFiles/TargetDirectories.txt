@@ -1,0 +1,3 @@
+/home/ti/chat_project/testmoduo/build/CMakeFiles/server.dir
+/home/ti/chat_project/testmoduo/build/CMakeFiles/edit_cache.dir
+/home/ti/chat_project/testmoduo/build/CMakeFiles/rebuild_cache.dir
