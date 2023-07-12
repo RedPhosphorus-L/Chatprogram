@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/botclient.dir/botclient.cpp.o  -o botclient  -lpthread 

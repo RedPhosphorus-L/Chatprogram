@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/rk3588/chat_project/test/testbot/botclient.cpp
+arpa/inet.h
+-
+fcntl.h
+-
+stdio.h
+-
+stdlib.h
+-
+string
+-
+cstring
+-
+sys/socket.h
+-
+unistd.h
+-
+iostream
+-
+

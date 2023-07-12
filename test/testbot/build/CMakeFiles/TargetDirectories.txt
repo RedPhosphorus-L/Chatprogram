@@ -1,0 +1,3 @@
+/home/rk3588/chat_project/test/testbot/build/CMakeFiles/rebuild_cache.dir
+/home/rk3588/chat_project/test/testbot/build/CMakeFiles/edit_cache.dir
+/home/rk3588/chat_project/test/testbot/build/CMakeFiles/botclient.dir
